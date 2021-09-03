@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(165, 162, 162);
+  }
+  h1 {
+    color: rgb(15, 102, 15);
+  }
+  p {
+    color: rgb(45, 0, 150);
+  }
+
+  h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+  }
+  p {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
